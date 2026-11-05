@@ -2,7 +2,11 @@
 
 A modern, responsive real estate website concept designed to present property listings, introduce property services, and help visitors explore their next home.
 
-## Project overview
+## Live Demo
+
+[View the live website](https://mkaceduet-hub.github.io/real-estate-urban-nest-website/)
+
+## Project Overview
 
 Urban Nest is a front-end portfolio project for a fictional real estate brand. It features a calm editorial visual style, property cards, simple listing filters, service information, and a contact form demonstration.
 
@@ -16,25 +20,25 @@ Urban Nest is a front-end portfolio project for a fictional real estate brand. I
 - Mobile navigation menu
 - Semantic HTML and accessible form labels
 
-## Built with
+## Built With
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
 
-## Run locally
+## Project Files
+
+- `index.html` — website structure and content
+- `style.css` — layout and responsive styling
+- `script.js` — navigation and interactive demo features
+
+## Run Locally
 
 1. Download or clone this repository.
-2. Open the project folder.
+2. Open the project folder in Sublime Text.
 3. Open `index.html` in a web browser.
 
 No build tools or package installation are required.
-
-## Live preview
-
-After enabling GitHub Pages, the site will be available at:
-
-`https://mkaceduet-hub.github.io/real-estate-urban-nest-website/`
 
 ## Note
 
